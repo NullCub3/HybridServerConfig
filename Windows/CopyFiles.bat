@@ -1,1 +1,1 @@
-xcopy /s C:\Users\Iain\Documents\GitHub\HybridServerConfig\!mcHybrid C:\Users\Iain\AppData\Roaming
+xcopy /w /s /y /i %userprofile%\Documents\GitHub\HybridServerConfig\!mcHybrid %APPDATA%\!mcHybrid
